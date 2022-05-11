@@ -1,0 +1,25 @@
+.error {
+  color: red;
+  font-size: 16px;
+}
+
+a {
+  color: orange;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.key {
+  background-color: #272727;
+  color: #eadab1;
+}
+
+.value {
+  background-color: #272727;
+  color: #d79921;
+}
+
+.key,
+.value {
+}
